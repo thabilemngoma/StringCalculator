@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c4595a0-2bdc-4086-ac7c-a90efd1f3142" name="Default Changelist" comment="" />
+    <list default="true" id="0c4595a0-2bdc-4086-ac7c-a90efd1f3142" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringCalcTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +36,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X3rbQ20Qk1MbKtRau1ZIzwSt0I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
@@ -50,13 +61,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.StringCalculatorTest.negativeNumbersTest">
-    <configuration name="StringCalculatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.StringCalcTest.negVal2">
+    <configuration name="StringCalcTest.neg" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;StringCalculatorTest&quot; --scan" />
+        <option name="scriptParameters" value="--tests &quot;StringCalcTest.neg&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -71,12 +82,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="StringCalculatorTest.WrongDigit" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="StringCalcTest.negVal" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;StringCalculatorTest.WrongDigit&quot;" />
+        <option name="scriptParameters" value="--tests &quot;StringCalcTest.negVal&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -91,12 +102,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="StringCalculatorTest.WrongDigitFirst" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="StringCalcTest.negVal1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;StringCalculatorTest.WrongDigitFirst&quot;" />
+        <option name="scriptParameters" value="--tests &quot;StringCalcTest.negVal1&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -111,12 +122,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="StringCalculatorTest.WrongDigitSecond" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="StringCalcTest.negVal2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;StringCalculatorTest.WrongDigitSecond&quot;" />
+        <option name="scriptParameters" value="--tests &quot;StringCalcTest.negVal2&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -153,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.StringCalcTest.negVal2" />
+        <item itemvalue="Gradle.StringCalcTest.negVal1" />
+        <item itemvalue="Gradle.StringCalcTest.negVal" />
+        <item itemvalue="Gradle.StringCalcTest.neg" />
         <item itemvalue="Gradle.StringCalculatorTest.negativeNumbersTest" />
-        <item itemvalue="Gradle.StringCalculatorTest.WrongDigit" />
-        <item itemvalue="Gradle.StringCalculatorTest.WrongDigitFirst" />
-        <item itemvalue="Gradle.StringCalculatorTest.WrongDigitSecond" />
-        <item itemvalue="Gradle.StringCalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -192,33 +203,33 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="308" y="86" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.23.1440.812@0.23.1440.812" timestamp="1580286297854" />
-    <state x="237" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580300117468">
+    <state x="237" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580305197632">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state x="237" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.814@0.23.1440.814" timestamp="1580300117468" />
-    <state width="1358" height="193" key="GridCell.Tab.0.bottom" timestamp="1580302313085">
+    <state x="237" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.814@0.23.1440.814" timestamp="1580305197632" />
+    <state width="1358" height="193" key="GridCell.Tab.0.bottom" timestamp="1580305580534">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1580298477804" />
-    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1580302313085" />
+    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1580305580534" />
     <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1580298569659" />
-    <state width="1358" height="193" key="GridCell.Tab.0.center" timestamp="1580302313084">
+    <state width="1358" height="193" key="GridCell.Tab.0.center" timestamp="1580305580533">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1580298477803" />
-    <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1580302313084" />
+    <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1580305580533" />
     <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1580298569658" />
-    <state width="1358" height="193" key="GridCell.Tab.0.left" timestamp="1580302313083">
+    <state width="1358" height="193" key="GridCell.Tab.0.left" timestamp="1580305580532">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1580298477802" />
-    <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1580302313083" />
+    <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1580305580532" />
     <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1580298569658" />
-    <state width="1358" height="193" key="GridCell.Tab.0.right" timestamp="1580302313084">
+    <state width="1358" height="193" key="GridCell.Tab.0.right" timestamp="1580305580533">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1580298477803" />
-    <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1580302313084" />
+    <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1580305580533" />
     <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1580298569659" />
     <state x="483" y="158" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580286804684">
       <screen x="0" y="23" width="1440" height="812" />
